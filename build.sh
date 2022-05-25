@@ -12,8 +12,8 @@ mkdir build
 
 # Run CMake in build folder
 # this will populate the build folder
-cd .build
+cd ./build
 emcmake cmake ..
 
-#run make - this will compile our project
+# run make - this will compile our project
 make

@@ -1,3 +1,4 @@
+
 @echo off
 
 REM Build the docker image described in our docker file
